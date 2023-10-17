@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Kanit:900");
+
+nav {
+    background: radial-gradient(859px at 10% 20%, rgb(245, 220, 154) 0%, rgb(164, 78, 51) 90%);
+}
+
+.navbar-brand {
+    font-family: 'Brush Script MT', cursive;
+    font-size:xx-large;
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-brand span {
+    color: #56290d;
+}
+
+.nav-link {
+    font-family: 'Times New Roman', serif;
+    font-size: large;
+    color: white;
+}
+
+.nav-link:hover { 
+    color: #a44e33;
+}
+
+.act { 
+    color: #56290d;
+}
+
+.carousel-title {
+    color: white; 
+    font-family: "Great Vibes", cursive; 
+    font-size: 60px; 
+    font-weight: normal; 
+    margin-bottom: 0px; 
+    margin-top: 40px; 
+    text-align: center; 
+    text-shadow: 0 3px 3px black; 
+}
+
+.div-title {
+    color: #b9734e;
+    font-family: "Great Vibes", cursive; 
+    font-size: 60px;     
+    font-weight: normal; 
+    text-align: center; 
+    text-shadow: 0 3px 3px #56290d;
+    margin-top: 10px;
+}
+
+.div-text {
+    text-align: justify;
+}
+
+.btn:hover {
+    background-color: #b9734e;
+}
+
+.div-background {
+    background-image: url("../images/background.jpg");
+  background-repeat: repeat;
+}
+
+.footer-title {
+    color: #56290d;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.card-title {
+    color: #56290d;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.card-model {
+    color: #b9734e;
+}
+
+.card-price {
+    color: #b9734e;
+}
+
+footer {
+    background: radial-gradient(859px at 10% 20%, rgb(245, 220, 154) 0%, rgb(164, 78, 51) 90%);
+}
+
